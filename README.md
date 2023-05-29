@@ -1,2 +1,2 @@
-# Sentiment_Analysis_Model_For_Errors_Detection_In_Large_Scale_Systems
+# Sentiment Analysis Model For Errors Detection In Large-Scale Systems
 Sentiment Analysis based Error Detection for Large-Scale Systems
